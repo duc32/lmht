@@ -311,11 +311,13 @@ html{
 
 
 .page-item-img {
-   width: 100%;
+    cursor: pointer;
+    width: 100%;
 }
 
 .page-item-content{
     margin-left: 5px;
+    cursor: pointer;
 
 }
 .page-item-content h3{
